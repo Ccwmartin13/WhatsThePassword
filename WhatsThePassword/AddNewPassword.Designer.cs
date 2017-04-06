@@ -42,7 +42,7 @@
             // btn_Add
             // 
             this.btn_Add.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Add.Location = new System.Drawing.Point(362, 218);
+            this.btn_Add.Location = new System.Drawing.Point(450, 218);
             this.btn_Add.Name = "btn_Add";
             this.btn_Add.Size = new System.Drawing.Size(84, 34);
             this.btn_Add.TabIndex = 3;
@@ -75,7 +75,7 @@
             this.tb_Website.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tb_Website.Location = new System.Drawing.Point(144, 43);
             this.tb_Website.Name = "tb_Website";
-            this.tb_Website.Size = new System.Drawing.Size(284, 30);
+            this.tb_Website.Size = new System.Drawing.Size(357, 30);
             this.tb_Website.TabIndex = 0;
             // 
             // tb_UserName
@@ -83,7 +83,7 @@
             this.tb_UserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tb_UserName.Location = new System.Drawing.Point(144, 93);
             this.tb_UserName.Name = "tb_UserName";
-            this.tb_UserName.Size = new System.Drawing.Size(284, 30);
+            this.tb_UserName.Size = new System.Drawing.Size(357, 30);
             this.tb_UserName.TabIndex = 1;
             // 
             // lbl_Password
@@ -102,7 +102,7 @@
             this.tb_Password.Location = new System.Drawing.Point(144, 144);
             this.tb_Password.Name = "tb_Password";
             this.tb_Password.PasswordChar = '*';
-            this.tb_Password.Size = new System.Drawing.Size(284, 30);
+            this.tb_Password.Size = new System.Drawing.Size(357, 30);
             this.tb_Password.TabIndex = 2;
             // 
             // btn_Back
@@ -120,7 +120,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(458, 264);
+            this.ClientSize = new System.Drawing.Size(546, 264);
             this.Controls.Add(this.btn_Back);
             this.Controls.Add(this.lbl_Password);
             this.Controls.Add(this.tb_Password);
