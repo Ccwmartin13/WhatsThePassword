@@ -24,7 +24,7 @@ namespace WhatsThePassword
 
         private void btn_Login_Click(object sender, EventArgs e)
         {
-            if (tb_UserName.Text == @"Ccwmartin13" && tb_Password.Text == @"Drpepper23")
+            if (tb_UserName.Text == @"Username" && tb_Password.Text == @"Password")
             {
                 Passwords passwords = new Passwords();
                 passwords.Show();

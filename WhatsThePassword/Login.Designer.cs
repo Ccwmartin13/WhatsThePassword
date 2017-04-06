@@ -55,7 +55,7 @@
             this.tb_UserName.Name = "tb_UserName";
             this.tb_UserName.Size = new System.Drawing.Size(284, 30);
             this.tb_UserName.TabIndex = 1;
-            this.tb_UserName.Text = "Ccwmartin13";
+            this.tb_UserName.Text = "Username";
             // 
             // tb_Password
             // 
